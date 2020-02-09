@@ -1,0 +1,6 @@
+*.*
+!*.py
+!*.txt
+!.clang-format
+!.gitignore
+!*.md
